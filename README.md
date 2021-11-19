@@ -1,5 +1,14 @@
 # Template for reproducible Data Science for Natural Sciences conference papers
 
+This template guides you through the main instructions when authoring your work for the Data Science for Natural Sciences Student conference.
+
+The recommended approach for a competition is Jupyter.
+
+The recommended approach for an abstract is Word! plain, dead, simple.
+
+You should upload your **reviewed** artifact on our Zenodo community.
+
+The use of GitHub, Wholetale, Binder, ... is **optional**.
 
 ## Jupyter
 The included template `main_notebook.ipynb` should provide you with necessary details.
